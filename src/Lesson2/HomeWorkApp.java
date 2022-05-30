@@ -7,7 +7,6 @@ public class HomeWorkApp {
         PositiveOrNegativeBoolean();
         PrintSNTimes();
     }
-
     public static boolean Within10and20() {
         System.out.println("1)");
         int i, j;
@@ -22,8 +21,6 @@ public class HomeWorkApp {
         System.out.println(within);
         return within;
     }
-
-
     public static void PositiveOrNegative() {
         System.out.println( "2)");
         int i;
@@ -34,7 +31,6 @@ public class HomeWorkApp {
             System.out.println(i + " is positive");
         }
     }
-
     public static boolean PositiveOrNegativeBoolean() {
         System.out.println("3)");
         int i;
@@ -48,7 +44,6 @@ public class HomeWorkApp {
         System.out.println(PON);
         return PON;
     }
-
     public static void PrintSNTimes (){
         System.out.println("4)");
         String SW = "Snake_string";
